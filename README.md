@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collins-Might
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m Still improving on my skills 
 - 💞️ I’m looking to collaborate with experts and the best in the field.
 - 📫 How to reach me www.linkedin.com/in/ugwuoke-chizoba-b43126255/
 
